@@ -1,0 +1,2 @@
+Prefix plugins/VSummary/example/
+Plugin VSummary inputfile ./ outputfile summary.csv
